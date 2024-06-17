@@ -17,3 +17,6 @@ Build, deploy, and scale hyperrealistic voice agents.
 [**Vocode Core**](https://github.com/vocodedev/vocode-core) provides the integrations, orchestration, and abstractions to create voice applications on top of any AI stack ([Docs](https://docs.vocode.dev/open-source))
 
 [**Vocode API**](https://dashboard.vocode.dev) is an enterprise-grade API to manage AI agents on phone calls ([Docs](https://docs.vocode.dev/walkthrough_intro)) that lives on top of **Vocode Core**.
+
+- [Python SDK](https://github.com/vocodedev/vocode-api-python)
+- [Node SDK](https://github.com/vocodedev/vocode-api-node)
